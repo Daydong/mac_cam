@@ -1,4 +1,4 @@
-# Experinece Mac-Photobooth selfie system with WebGL
+# Experience Mac-Photobooth selfie system with WebGL
 
 ![image](https://github.com/user-attachments/assets/f5354a42-e6bc-4fc9-adeb-c2f32a569402)
 
